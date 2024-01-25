@@ -1,0 +1,13 @@
+.btn:hover {
+    color: #fff !important;
+    background-color: var(--bs-btn-hover-bg);
+    border-color: var(--bs-btn-hover-border-color);
+}
+
+.form-control:focus {
+  color: #198754 !important; 
+  background-color: #edf8f0 !important;
+  border-color: #ffffff;
+  outline: 0;
+  box-shadow: 0 0 0 0.25rem #19875488
+}
